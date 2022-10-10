@@ -19,7 +19,7 @@ var URLS = [                            // Add URL you want to cache in this lis
   './img/planet.png',
   './img/robot_looking.png',
   './img/ruined_city.png',
-  './img/icons/icon-512x512.png'              
+  './img/icons/android-chrome-192x192.png'              
 ]
 
 // Respond with cached resources
