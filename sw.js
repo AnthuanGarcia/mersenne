@@ -19,6 +19,10 @@ var URLS = [                            // Add URL you want to cache in this lis
   './img/planet.png',
   './img/robot_looking.png',
   './img/ruined_city.png',
+  './img/astro1.png',
+  './img/astro2.png',
+  './img/planet_opacity.png',
+  './video/MilkyWayZoom.mp4',
   './img/icons/android-chrome-192x192.png'              
 ]
 
